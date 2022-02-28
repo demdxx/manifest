@@ -9,3 +9,8 @@ En relación con los últimos acontecimientos del 24/02/2022, la invasión de la
 > NOTE: The Japanese version is not very correct... creo...
 
 2022年2月24日の最新の出来事、ウクライナの独立国家の領土へのロシア軍の侵入に関連して、私は常に友好的であったすべての人々に対するこれらの犯罪行為を支持しないことを宣言したいと思います ロシア人に。 この行動は、ウクライナに関連するロシアの犯罪です。 積極的に支持または戦術的に同意するすべての人（特にロシア市民）は人道に対する罪の共犯者であり、これを正当化することはできません。これに参加するすべての人は戦争犯罪です。
+
+# Similar manifests/statements
+
+* https://github.com/xaionaro/politics/blob/main/20220224_statement.md
+
